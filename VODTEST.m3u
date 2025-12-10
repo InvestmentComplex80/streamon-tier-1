@@ -1,2 +1,7 @@
-#EXTM3U:-1 tvg-name="Deadpool & Wolverine" tvg-id="Marvel 1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="Marvel" radio="false",Deadpool & Wolverine
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://example.com/thumb1.jpg",Deadpool And Wolverine
 https://tinyurl.com/2pdcu72v
+#EXTINF:-1 tvg-logo="https://example.com/thumb2.jpg",Guardians Of The Galaxy
+https://tinyurl.com/4dn239bx
+#EXTINF:-1,Iron Man 2008
+https://tinyurl.com/mvnrdcp7
